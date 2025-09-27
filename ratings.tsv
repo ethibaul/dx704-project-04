@@ -8,7 +8,7 @@ cranberry-apple-crisp	Cranberry Apple Crisp	2.4502151847757396	0.362553796193934
 bacon-chocolate-chip-cookies	Bacon Chocolate Chip Cookies	5.0	1.0
 sujebi	Sujebi	2.7077220544400715	0.4269305136100179
 pasta-primavera	Pasta Primavera	2.2626760616053803	0.31566901540134507
-ramen	Ramen	2.027621732258896	0.256905433064724
+ramen	Ramen	2.027621732258896	0.0
 brownies	Brownies	2.2914840595663875	0.32287101489159686
 bacon-wrapped-scallops	Bacon Wrapped Scallops	5.0	1.0
 bacon-egg-muffins	Bacon Egg Muffins	5.0	1.0
@@ -34,19 +34,19 @@ tamales	Tamales	2.3261472275983923	0.3315368068995981
 enchiladas	Enchiladas	2.6787595770205668	0.4196898942551417
 tacos	Tacos	2.5157765640576795	0.37894414101441987
 burritos	Burritos	2.9932136904138096	0.4983034226034524
-peanut-butter-cupcakes	Peanut Butter Cupcakes	2.0479640273406936	0.2619910068351734
+peanut-butter-cupcakes	Peanut Butter Cupcakes	2.0479640273406936	0.0
 pickled-asparagus	Pickled Asparagus	2.893488411598378	0.4733721028995945
 chocolate-peanut-butter-cake	Chocolate Peanut Butter Cake	2.281376153748664	0.32034403843716597
 udon	Udon	2.8338457474334113	0.45846143685835283
 vegetable-lasagna	Vegetable Lasagna	1.0	0.0
 maple-bacon-donuts	Maple Bacon Donuts	5.0	1.0
 maple-bacon-pancakes	Maple Bacon Pancakes	5.0	1.0
-spinach-and-ricotta-stuffed-shells	Spinach And Ricotta Stuffed Shells	2.0776544192819464	0.2694136048204866
+spinach-and-ricotta-stuffed-shells	Spinach And Ricotta Stuffed Shells	2.0776544192819464	0.0
 quesadillas	Quesadillas	2.5488023930562385	0.3872005982640596
 pico-de-gallo	Pico De Gallo	2.446969372529812	0.361742343132453
 nachos	Nachos	2.2910143167763213	0.3227535791940803
 cold-soba-noodles-with-tomato-and-cucumber	Cold Soba Noodles With Tomato And Cucumber	2.8793531064628968	0.4698382766157242
-fajitas	Fajitas	2.0385267720426423	0.2596316930106606
+fajitas	Fajitas	2.0385267720426423	0.0
 loaded-nachos	Loaded Nachos	2.6715579082951786	0.41788947707379465
 lasagna	Lasagna	2.6613319471413446	0.41533298678533614
 chicken-nuggets	Chicken Nuggets	2.163142265250979	0.29078556631274477
@@ -58,15 +58,15 @@ nacho-fries	Nacho Fries	2.949921772709769	0.4874804431774422
 tempura-udon	Tempura Udon	2.1894384039378	0.29735960098445
 peach-crisp	Peach Crisp	2.115359616790329	0.2788399041975822
 apple-pie	Apple Pie	2.205592574158193	0.3013981435395483
-blueberry-crisp	Blueberry Crisp	2.0406085013091078	0.26015212532727694
-berry-crumble	Berry Crumble	2.1126321257957015	0.27815803144892537
+blueberry-crisp	Blueberry Crisp	2.0406085013091078	0.0
+berry-crumble	Berry Crumble	2.1126321257957015	0.0
 strawberry-rhubarb-crisp	Strawberry Rhubarb Crisp	2.312265387098578	0.3280663467746445
 peach-cobbler	Peach Cobbler	2.637479194440317	0.40936979861007927
 cranberry-sauce	Cranberry Sauce	2.9376708839178445	0.4844177209794611
 cherry-cobbler	Cherry Cobbler	2.915930066675501	0.47898251666887526
 apple-crumble	Apple Crumble	2.648169578778719	0.41204239469467974
-chocolate-croissants	Chocolate Croissants	2.0180367130653174	0.25450917826632935
-french-toast	French Toast	2.0495496928595127	0.2623874232148782
+chocolate-croissants	Chocolate Croissants	2.0180367130653174	0.0
+french-toast	French Toast	2.0495496928595127	0.0
 chocolate-babka	Chocolate Babka	2.9253825301182386	0.48134563252955964
 cinnamon-babka	Cinnamon Babka	2.623473201364348	0.405868300341087
 blueberry-crumble	Blueberry Crumble	2.119819209823178	0.2799548024557945
