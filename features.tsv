@@ -1,101 +1,101 @@
-apple	bacon	chicken	crisp	lasagna	veg
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	1	0	0	0	0
-0	0	1	0	0	0
-1	0	0	1	0	0
-1	0	0	1	0	0
-0	1	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	1	0	0	0	0
-0	1	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	1	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	1	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	1	1
-0	1	0	0	0	0
-0	1	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	1	0
-0	0	1	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	1	0	0
-1	0	0	0	0	0
-0	0	0	1	0	0
-0	0	0	0	0	0
-0	0	0	1	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-1	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	0	0	0	0	0
-0	1	0	0	0	0
-0	0	0	0	0	0
-0	0	0	1	0	0
-0	1	0	0	0	0
-0	1	0	0	0	0
-0	1	1	0	0	0
-0	1	0	0	0	0
-0	1	0	0	0	0
-0	0	1	0	1	0
-0	0	0	0	1	0
-0	0	0	0	1	1
-0	0	0	0	1	0
+recipe_slug	apple	bacon	chicken	crisp	lasagna	veg	bias
+falafel	0	0	0	0	0	0	1
+spamburger	0	0	0	0	0	0	1
+bacon-fried-rice	0	1	0	0	0	0	1
+chicken-fingers	0	0	1	0	0	0	1
+apple-crisp	1	0	0	1	0	0	1
+cranberry-apple-crisp	1	0	0	1	0	0	1
+bacon-chocolate-chip-cookies	0	1	0	0	0	0	1
+sujebi	0	0	0	0	0	0	1
+pasta-primavera	0	0	0	0	0	0	1
+ramen	0	0	0	0	0	0	1
+brownies	0	0	0	0	0	0	1
+bacon-wrapped-scallops	0	1	0	0	0	0	1
+bacon-egg-muffins	0	1	0	0	0	0	1
+breakfast-burritos	0	0	0	0	0	0	1
+bolognese-sauce	0	0	0	0	0	0	1
+croissants	0	0	0	0	0	0	1
+bacon-souffle	0	1	0	0	0	0	1
+souffle	0	0	0	0	0	0	1
+chocolate-souffle	0	0	0	0	0	0	1
+butter-croissants	0	0	0	0	0	0	1
+pickled-green-beans	0	0	0	0	0	0	1
+fried-oysters	0	0	0	0	0	0	1
+peanut-butter-brownies	0	0	0	0	0	0	1
+almond-chip-cookies	0	0	0	0	0	0	1
+guacamole	0	0	0	0	0	0	1
+brioche-bread	0	0	0	0	0	0	1
+brioche-bread-with-chocolate	0	0	0	0	0	0	1
+asparagus-quiche	0	0	0	0	0	0	1
+asparagus-burger	0	0	0	0	0	0	1
+ma-la-chicken	0	0	1	0	0	0	1
+cold-noodles-with-tomatoes	0	0	0	0	0	0	1
+tamales	0	0	0	0	0	0	1
+enchiladas	0	0	0	0	0	0	1
+tacos	0	0	0	0	0	0	1
+burritos	0	0	0	0	0	0	1
+peanut-butter-cupcakes	0	0	0	0	0	0	1
+pickled-asparagus	0	0	0	0	0	0	1
+chocolate-peanut-butter-cake	0	0	0	0	0	0	1
+udon	0	0	0	0	0	0	1
+vegetable-lasagna	0	0	0	0	1	1	1
+maple-bacon-donuts	0	1	0	0	0	0	1
+maple-bacon-pancakes	0	1	0	0	0	0	1
+spinach-and-ricotta-stuffed-shells	0	0	0	0	0	0	1
+quesadillas	0	0	0	0	0	0	1
+pico-de-gallo	0	0	0	0	0	0	1
+nachos	0	0	0	0	0	0	1
+cold-soba-noodles-with-tomato-and-cucumber	0	0	0	0	0	0	1
+fajitas	0	0	0	0	0	0	1
+loaded-nachos	0	0	0	0	0	0	1
+lasagna	0	0	0	0	1	0	1
+chicken-nuggets	0	0	1	0	0	0	1
+pain-au-chocolat	0	0	0	0	0	0	1
+nacho-dip	0	0	0	0	0	0	1
+nacho-salad	0	0	0	0	0	0	1
+nacho-casserole	0	0	0	0	0	0	1
+nacho-fries	0	0	0	0	0	0	1
+tempura-udon	0	0	0	0	0	0	1
+peach-crisp	0	0	0	1	0	0	1
+apple-pie	1	0	0	0	0	0	1
+blueberry-crisp	0	0	0	1	0	0	1
+berry-crumble	0	0	0	0	0	0	1
+strawberry-rhubarb-crisp	0	0	0	1	0	0	1
+peach-cobbler	0	0	0	0	0	0	1
+cranberry-sauce	0	0	0	0	0	0	1
+cherry-cobbler	0	0	0	0	0	0	1
+apple-crumble	1	0	0	0	0	0	1
+chocolate-croissants	0	0	0	0	0	0	1
+french-toast	0	0	0	0	0	0	1
+chocolate-babka	0	0	0	0	0	0	1
+cinnamon-babka	0	0	0	0	0	0	1
+blueberry-crumble	0	0	0	0	0	0	1
+spam-musubi	0	0	0	0	0	0	1
+taco-salad	0	0	0	0	0	0	1
+chiles-rellenos	0	0	0	0	0	0	1
+almond-croissants	0	0	0	0	0	0	1
+cranberry-relish	0	0	0	0	0	0	1
+ma-la-beef	0	0	0	0	0	0	1
+chocolate-cake	0	0	0	0	0	0	1
+spinach-quiche	0	0	0	0	0	0	1
+mushroom-quiche	0	0	0	0	0	0	1
+quiche-lorraine	0	0	0	0	0	0	1
+croissant-aux-amandes	0	0	0	0	0	0	1
+danishes	0	0	0	0	0	0	1
+spinach-and-feta-quiche	0	0	0	0	0	0	1
+cold-sesame-noodles	0	0	0	0	0	0	1
+soba-noodle-salad-with-peanut-dressing	0	0	0	0	0	0	1
+dan-dan-noodles	0	0	0	0	0	0	1
+vanilla-souffle	0	0	0	0	0	0	1
+bacon-wrapped-dates	0	1	0	0	0	0	1
+cherry-pie	0	0	0	0	0	0	1
+berry-crisp	0	0	0	1	0	0	1
+bacon-and-egg-breakfast-sandwich	0	1	0	0	0	0	1
+bacon-wrapped-shrimp-skewers	0	1	0	0	0	0	1
+bacon-wrapped-chicken	0	1	1	0	0	0	1
+bacon-wrapped-asparagus	0	1	0	0	0	0	1
+bacon-mac-and-cheese	0	1	0	0	0	0	1
+chicken-alfredo-lasagna	0	0	1	0	1	0	1
+classic-beef-lasagna	0	0	0	0	1	0	1
+vegetarian-mushroom-lasagna	0	0	0	0	1	1	1
+spinach-and-ricotta-lasagna	0	0	0	0	1	0	1
